@@ -1,0 +1,7 @@
+top -b -n 1 > topfile.txt
+if [ -n "$1" ]
+then
+sed -i '$1,$ d' topfile.txt
+else
+sed -i '5,$ d' topfile.txt
+fi

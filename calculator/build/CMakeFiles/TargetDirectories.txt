@@ -1,0 +1,4 @@
+/home/carambula/AK2/calculator/build/CMakeFiles/rebuild_cache.dir
+/home/carambula/AK2/calculator/build/CMakeFiles/edit_cache.dir
+/home/carambula/AK2/calculator/build/CMakeFiles/calculator.dir
+/home/carambula/AK2/calculator/build/CMakeFiles/out.dir
